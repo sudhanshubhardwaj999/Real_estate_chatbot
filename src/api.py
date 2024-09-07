@@ -16,7 +16,7 @@ retriever.build_index(embeddings, preprocessed_text)
 
 # Hugging Face API configuration
 HF_API_URL = "https://api-inference.huggingface.co/models/gpt2"
-HF_API_KEY = "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"  # Replace with your actual Hugging Face API key
+HF_API_KEY = ""  # Replace with your actual Hugging Face API key
 headers = {"Authorization": f"Bearer {HF_API_KEY}"}
 
 
