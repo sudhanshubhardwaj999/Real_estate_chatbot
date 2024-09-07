@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+transformers
+sentence-transformers
+langchain
+google-cloud-vision
+pytesseract
+faiss-cpu
+openpyxl
+python-docx
